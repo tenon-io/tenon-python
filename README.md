@@ -1,3 +1,5 @@
+### Active maintenance of tenon-python has moved to [tenon-io/tenon-python](https://github.com/tenon-io/tenon-python).
+
 # Python wrapper for the Tenon.io API
 
 ## Installation
